@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TibiaGuildManager", "TibiaGuildManager\TibiaGuildManager.csproj", "{2DEBD29F-343C-4771-AA96-BF500AA51A4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TibiaGuildManager.UnitTests", "TibiaGuildManager.UnitTests\TibiaGuildManager.UnitTests.csproj", "{5BD2B2D2-A8B7-41C3-8E32-08DFEC9FFFC7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2DEBD29F-343C-4771-AA96-BF500AA51A4E} = {2DEBD29F-343C-4771-AA96-BF500AA51A4E}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DEBD29F-343C-4771-AA96-BF500AA51A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEBD29F-343C-4771-AA96-BF500AA51A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEBD29F-343C-4771-AA96-BF500AA51A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEBD29F-343C-4771-AA96-BF500AA51A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD2B2D2-A8B7-41C3-8E32-08DFEC9FFFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD2B2D2-A8B7-41C3-8E32-08DFEC9FFFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD2B2D2-A8B7-41C3-8E32-08DFEC9FFFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD2B2D2-A8B7-41C3-8E32-08DFEC9FFFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B16488EA-42EB-4D28-A665-FBF85FD82255}
+	EndGlobalSection
+EndGlobal
