@@ -13,5 +13,6 @@ namespace TibiaGuildManager.Data.TibiaGuild
         public string vocation { get; set; }
         public string joined { get; set; }
         public string status { get; set; }
+        public string rank { get; set; }
     }
 }

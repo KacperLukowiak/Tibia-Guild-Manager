@@ -19,10 +19,25 @@ namespace TibiaGuildManager.Manipulators
             {
                 foreach (var character in member.characters)
                 {
+                    character.rank = member.rank_title;
                     characterList.Add(character);
                 }
             }
             return characterList;
+        }
+
+        public HashSet<string> PullRanks(GuildRoot guildRoot)
+        {
+            if (guildRoot is null)
+            {
+                return null;
+            }
+            HashSet<string> rankList = new HashSet<string>();
+            foreach (var member in guildRoot.guild.members)
+            {
+                rankList.Add(member.rank_title);
+            }
+            return rankList;
         }
 
     }
