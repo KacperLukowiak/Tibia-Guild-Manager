@@ -4,11 +4,11 @@ using System.Linq;
 using System.Net.Http;
 using System.Text.Json;
 using System.Threading.Tasks;
-using TibiaGuildManager.Data;
+using TibiaGuildManager.Data.TibiaGuild;
 
 namespace TibiaGuildManager.Services
 {
-    public class TibiaAPIService
+    public class TibiaAPIService : ITibiaAPIService
     {
         private static HttpClient tibiaAPIClient;
         private string APIURI;
@@ -19,7 +19,7 @@ namespace TibiaGuildManager.Services
             tibiaAPIClient = new HttpClient();
         }
 
-        public async Task<TibiaGuild.Root> GetGuild(string guild)
+        public async Task<GuildRoot> GetGuild(string guild)
         {
             guild = guild.Replace(" ", "+");
             HttpResponseMessage httpResponseMessage = await tibiaAPIClient.GetAsync(APIURI + "guild/" + guild + ".json");
@@ -28,7 +28,7 @@ namespace TibiaGuildManager.Services
                 return null;
             }
             string response = await httpResponseMessage.Content.ReadAsStringAsync();
-            TibiaGuild.Root tibiaGuild = JsonSerializer.Deserialize<TibiaGuild.Root>(response);
+            GuildRoot tibiaGuild = JsonSerializer.Deserialize<GuildRoot>(response);
             return tibiaGuild;
         }
     }

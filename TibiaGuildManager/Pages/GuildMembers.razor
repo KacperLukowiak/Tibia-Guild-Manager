@@ -1,7 +1,41 @@
 ﻿@page "/guildmembers"
+@using TibiaGuildManager.Data.TibiaGuild
+@using TibiaGuildManager.Services
+@inject ITibiaAPIService TibiaApiService
+<!----
+<MudTable Items="@_guild" Dense="true" Hover="true" Bordered="true" Striped="true">
+    <ToolBarContent>
+        <MudText Typo="Typo.h2">Guild Members</MudText>
+        <MudToolBarSpacer />
+        <MudTextField @bind-Value="_searchString" Placeholder="Search" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search"
+                      IconSize="Size.Medium" Class="mt-0"></MudTextField>
+    </ToolBarContent>
+    <HeaderContent>
+        <MudTh>Rank</MudTh>
+        <MudTh>Nickname</MudTh>
+        <MudTh>Profession</MudTh>
+        <MudTh>Level</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="Rank"></MudTd>
+        <MudTd DataLabel="Nickname"></MudTd>
+        <MudTd DataLabel="Profession"></MudTd>
+        <MudTd DataLabel="Level"></MudTd>
+    </RowTemplate>
+</MudTable>
+    -->
 
-<h3>Guild Members</h3>
 
 @code {
+    private string _searchString;
+    private string _guildTextField;
+    private List<Member> _members;
+    private GuildRoot _guild;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _guild = await TibiaApiService.GetGuild(_guildTextField);
+
+    }
 
 }

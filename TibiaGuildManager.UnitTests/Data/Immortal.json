@@ -1,0 +1,587 @@
+{
+  "guild": {
+    "data": {
+      "name": "Immortal",
+      "description": " Rekrutacja zamknieta.",
+      "guildhall": {
+        "name": "Crystal Glance",
+        "town": "",
+        "paid": "2021-03-25",
+        "world": "Monza",
+        "houseid": 0
+      },
+      "application": true,
+      "war": false,
+      "online_status": 31,
+      "offline_status": 33,
+      "disbanded": false,
+      "totalmembers": 64,
+      "totalinvited": 0,
+      "world": "Monza",
+      "founded": "2019-07-29",
+      "active": true,
+      "guildlogo": "https:\/\/static.tibia.com\/images\/guildlogos\/Immortal.gif"
+    },
+    "members": [
+      {
+        "rank_title": "Leader",
+        "characters": [
+          {
+            "name": "Ghastly Fox",
+            "nick": "Kim Fox In",
+            "level": 694,
+            "vocation": "Elite Knight",
+            "joined": "2020-01-25",
+            "status": "online"
+          },
+          {
+            "name": "Candia Mage",
+            "nick": "Kupie przyjaciol",
+            "level": 480,
+            "vocation": "Master Sorcerer",
+            "joined": "2019-07-29",
+            "status": "online"
+          },
+          {
+            "name": "Gombson",
+            "nick": "Byc Jak Kieras",
+            "level": 616,
+            "vocation": "Royal Paladin",
+            "joined": "2019-10-04",
+            "status": "online"
+          },
+          {
+            "name": "Larry Hunter",
+            "nick": "Ostatni Sprawiedliwy",
+            "level": 665,
+            "vocation": "Royal Paladin",
+            "joined": "2020-09-05",
+            "status": "online"
+          },
+          {
+            "name": "Volcanic Fox",
+            "nick": "Idol Pavy",
+            "level": 553,
+            "vocation": "Elder Druid",
+            "joined": "2020-05-09",
+            "status": "offline"
+          }
+        ]
+      },
+      {
+        "rank_title": "Icon",
+        "characters": [
+          {
+            "name": "Evenix",
+            "nick": "",
+            "level": 497,
+            "vocation": "Elder Druid",
+            "joined": "2019-07-29",
+            "status": "offline"
+          },
+          {
+            "name": "Toxic Stanley",
+            "nick": "",
+            "level": 617,
+            "vocation": "Elder Druid",
+            "joined": "2020-07-04",
+            "status": "online"
+          }
+        ]
+      },
+      {
+        "rank_title": "First",
+        "characters": [
+          {
+            "name": "Don Kryzys",
+            "nick": "",
+            "level": 670,
+            "vocation": "Royal Paladin",
+            "joined": "2020-12-14",
+            "status": "offline"
+          },
+          {
+            "name": "Krispek",
+            "nick": "Niunius",
+            "level": 686,
+            "vocation": "Elder Druid",
+            "joined": "2020-02-01",
+            "status": "offline"
+          },
+          {
+            "name": "Mielony Schab",
+            "nick": "",
+            "level": 556,
+            "vocation": "Elite Knight",
+            "joined": "2020-05-20",
+            "status": "offline"
+          },
+          {
+            "name": "Sieemin",
+            "nick": "",
+            "level": 628,
+            "vocation": "Royal Paladin",
+            "joined": "2020-07-17",
+            "status": "offline"
+          },
+          {
+            "name": "Smoliq",
+            "nick": "Polisman",
+            "level": 497,
+            "vocation": "Elite Knight",
+            "joined": "2020-04-11",
+            "status": "offline"
+          }
+        ]
+      },
+      {
+        "rank_title": "Second",
+        "characters": [
+          {
+            "name": "Alan Edd",
+            "nick": "",
+            "level": 694,
+            "vocation": "Elder Druid",
+            "joined": "2020-07-21",
+            "status": "online"
+          },
+          {
+            "name": "Ario Alixago",
+            "nick": "",
+            "level": 583,
+            "vocation": "Elite Knight",
+            "joined": "2020-01-26",
+            "status": "online"
+          },
+          {
+            "name": "Baqhere",
+            "nick": "Bartek tutaj",
+            "level": 609,
+            "vocation": "Master Sorcerer",
+            "joined": "2020-08-27",
+            "status": "online"
+          },
+          {
+            "name": "Charmea",
+            "nick": "Ogrodniczka",
+            "level": 668,
+            "vocation": "Master Sorcerer",
+            "joined": "2020-12-12",
+            "status": "online"
+          },
+          {
+            "name": "Ghastly Remains",
+            "nick": "",
+            "level": 731,
+            "vocation": "Master Sorcerer",
+            "joined": "2020-06-14",
+            "status": "offline"
+          },
+          {
+            "name": "Jagusiaaa",
+            "nick": "",
+            "level": 694,
+            "vocation": "Elite Knight",
+            "joined": "2020-07-21",
+            "status": "online"
+          },
+          {
+            "name": "Kas Pall",
+            "nick": "",
+            "level": 706,
+            "vocation": "Royal Paladin",
+            "joined": "2021-01-09",
+            "status": "online"
+          },
+          {
+            "name": "Vasyll",
+            "nick": "Wszehnajt",
+            "level": 551,
+            "vocation": "Elite Knight",
+            "joined": "2020-12-27",
+            "status": "online"
+          },
+          {
+            "name": "Wlodasz",
+            "nick": "",
+            "level": 467,
+            "vocation": "Elder Druid",
+            "joined": "2020-04-14",
+            "status": "online"
+          },
+          {
+            "name": "Zyordor Tyruya",
+            "nick": "",
+            "level": 523,
+            "vocation": "Master Sorcerer",
+            "joined": "2020-11-28",
+            "status": "online"
+          }
+        ]
+      },
+      {
+        "rank_title": "Third",
+        "characters": [
+          {
+            "name": "Cynitha the Unholy",
+            "nick": "",
+            "level": 636,
+            "vocation": "Elite Knight",
+            "joined": "2021-02-08",
+            "status": "offline"
+          },
+          {
+            "name": "Doctore Hylka",
+            "nick": "",
+            "level": 605,
+            "vocation": "Elder Druid",
+            "joined": "2020-08-29",
+            "status": "offline"
+          },
+          {
+            "name": "Grubybass",
+            "nick": "",
+            "level": 578,
+            "vocation": "Royal Paladin",
+            "joined": "2020-06-11",
+            "status": "online"
+          },
+          {
+            "name": "Hudy",
+            "nick": "Karp Hunter",
+            "level": 660,
+            "vocation": "Royal Paladin",
+            "joined": "2020-07-22",
+            "status": "online"
+          },
+          {
+            "name": "Hylka",
+            "nick": "Maxi Tynkashi",
+            "level": 535,
+            "vocation": "Elite Knight",
+            "joined": "2020-09-05",
+            "status": "offline"
+          },
+          {
+            "name": "Jedi Skywalker",
+            "nick": "",
+            "level": 701,
+            "vocation": "Elite Knight",
+            "joined": "2021-01-09",
+            "status": "offline"
+          },
+          {
+            "name": "Little Walking Tedy",
+            "nick": "Talizman Gombki",
+            "level": 487,
+            "vocation": "Master Sorcerer",
+            "joined": "2020-10-11",
+            "status": "online"
+          },
+          {
+            "name": "Twarzowy Knight",
+            "nick": "Yang",
+            "level": 606,
+            "vocation": "Elite Knight",
+            "joined": "2021-01-08",
+            "status": "offline"
+          }
+        ]
+      },
+      {
+        "rank_title": "Fourth",
+        "characters": [
+          {
+            "name": "Aram Ever",
+            "nick": "",
+            "level": 587,
+            "vocation": "Elite Knight",
+            "joined": "2020-01-16",
+            "status": "offline"
+          },
+          {
+            "name": "Grzy bus",
+            "nick": "",
+            "level": 849,
+            "vocation": "Master Sorcerer",
+            "joined": "2021-01-09",
+            "status": "online"
+          },
+          {
+            "name": "Mean Mage",
+            "nick": "",
+            "level": 522,
+            "vocation": "Master Sorcerer",
+            "joined": "2021-01-04",
+            "status": "offline"
+          },
+          {
+            "name": "Nicks of Dark",
+            "nick": "",
+            "level": 482,
+            "vocation": "Master Sorcerer",
+            "joined": "2021-01-09",
+            "status": "offline"
+          },
+          {
+            "name": "Niebiesko Czarni",
+            "nick": "Cichoniemy",
+            "level": 527,
+            "vocation": "Elder Druid",
+            "joined": "2021-01-08",
+            "status": "offline"
+          },
+          {
+            "name": "Olersik Fox",
+            "nick": "",
+            "level": 503,
+            "vocation": "Master Sorcerer",
+            "joined": "2021-01-27",
+            "status": "online"
+          },
+          {
+            "name": "Pogromca Zubraa",
+            "nick": "",
+            "level": 534,
+            "vocation": "Master Sorcerer",
+            "joined": "2020-12-05",
+            "status": "online"
+          },
+          {
+            "name": "Possessed Demon",
+            "nick": "Kapitan Bomba",
+            "level": 481,
+            "vocation": "Master Sorcerer",
+            "joined": "2021-01-08",
+            "status": "online"
+          },
+          {
+            "name": "Purple Dogg",
+            "nick": "",
+            "level": 497,
+            "vocation": "Master Sorcerer",
+            "joined": "2020-11-21",
+            "status": "online"
+          },
+          {
+            "name": "Ricus Lanaryx",
+            "nick": "Pusy destroyer",
+            "level": 439,
+            "vocation": "Elder Druid",
+            "joined": "2021-01-13",
+            "status": "offline"
+          },
+          {
+            "name": "Stefek Grzemski",
+            "nick": "",
+            "level": 681,
+            "vocation": "Elder Druid",
+            "joined": "2021-01-22",
+            "status": "online"
+          },
+          {
+            "name": "Szeregowy Mazurek",
+            "nick": "",
+            "level": 557,
+            "vocation": "Elder Druid",
+            "joined": "2021-03-06",
+            "status": "offline"
+          },
+          {
+            "name": "Vircasassis",
+            "nick": "",
+            "level": 601,
+            "vocation": "Royal Paladin",
+            "joined": "2021-01-08",
+            "status": "offline"
+          }
+        ]
+      },
+      {
+        "rank_title": "Fifth",
+        "characters": [
+          {
+            "name": "Allendir",
+            "nick": "",
+            "level": 715,
+            "vocation": "Elder Druid",
+            "joined": "2021-01-28",
+            "status": "offline"
+          },
+          {
+            "name": "Anonymous Writer",
+            "nick": "Violet Purple Rose",
+            "level": 541,
+            "vocation": "Master Sorcerer",
+            "joined": "2020-07-11",
+            "status": "offline"
+          },
+          {
+            "name": "Astroniik",
+            "nick": "",
+            "level": 497,
+            "vocation": "Elder Druid",
+            "joined": "2021-01-23",
+            "status": "offline"
+          },
+          {
+            "name": "Criptosio",
+            "nick": "",
+            "level": 423,
+            "vocation": "Elder Druid",
+            "joined": "2021-02-12",
+            "status": "online"
+          },
+          {
+            "name": "Definitely Not Kapec",
+            "nick": "",
+            "level": 390,
+            "vocation": "Elder Druid",
+            "joined": "2021-02-07",
+            "status": "offline"
+          },
+          {
+            "name": "Dranitos",
+            "nick": "",
+            "level": 531,
+            "vocation": "Elder Druid",
+            "joined": "2021-03-02",
+            "status": "online"
+          },
+          {
+            "name": "Elayfeo",
+            "nick": "",
+            "level": 511,
+            "vocation": "Royal Paladin",
+            "joined": "2021-02-26",
+            "status": "online"
+          },
+          {
+            "name": "Garettoo",
+            "nick": "",
+            "level": 615,
+            "vocation": "Elite Knight",
+            "joined": "2021-01-24",
+            "status": "online"
+          },
+          {
+            "name": "Hathol",
+            "nick": "",
+            "level": 448,
+            "vocation": "Elite Knight",
+            "joined": "2020-11-22",
+            "status": "offline"
+          },
+          {
+            "name": "Kapsel Pavulon",
+            "nick": "",
+            "level": 759,
+            "vocation": "Elder Druid",
+            "joined": "2021-02-11",
+            "status": "offline"
+          },
+          {
+            "name": "Kelornos Lardoras",
+            "nick": "Po Prostu Kelo",
+            "level": 577,
+            "vocation": "Royal Paladin",
+            "joined": "2020-10-23",
+            "status": "offline"
+          },
+          {
+            "name": "Kivaj",
+            "nick": "",
+            "level": 471,
+            "vocation": "Royal Paladin",
+            "joined": "2020-12-29",
+            "status": "offline"
+          },
+          {
+            "name": "Konii Tuptii",
+            "nick": "",
+            "level": 602,
+            "vocation": "Elder Druid",
+            "joined": "2021-01-31",
+            "status": "online"
+          },
+          {
+            "name": "Odyan",
+            "nick": "",
+            "level": 616,
+            "vocation": "Royal Paladin",
+            "joined": "2021-02-15",
+            "status": "online"
+          },
+          {
+            "name": "Paluch ed",
+            "nick": "",
+            "level": 420,
+            "vocation": "Elder Druid",
+            "joined": "2020-12-29",
+            "status": "online"
+          },
+          {
+            "name": "Shanickshin",
+            "nick": "",
+            "level": 401,
+            "vocation": "Elder Druid",
+            "joined": "2020-12-22",
+            "status": "offline"
+          },
+          {
+            "name": "Voltanis",
+            "nick": "",
+            "level": 631,
+            "vocation": "Master Sorcerer",
+            "joined": "2021-03-01",
+            "status": "offline"
+          }
+        ]
+      },
+      {
+        "rank_title": "Trial",
+        "characters": [
+          {
+            "name": "Arcaras",
+            "nick": "",
+            "level": 326,
+            "vocation": "Elder Druid",
+            "joined": "2021-03-11",
+            "status": "offline"
+          },
+          {
+            "name": "Avvgan",
+            "nick": "",
+            "level": 483,
+            "vocation": "Master Sorcerer",
+            "joined": "2021-03-02",
+            "status": "offline"
+          },
+          {
+            "name": "Happag Lloyd",
+            "nick": "",
+            "level": 543,
+            "vocation": "Elite Knight",
+            "joined": "2021-03-02",
+            "status": "online"
+          },
+          {
+            "name": "Porkao",
+            "nick": "",
+            "level": 415,
+            "vocation": "Elite Knight",
+            "joined": "2021-03-11",
+            "status": "offline"
+          }
+        ]
+      }
+    ],
+    "invited": []
+  },
+  "information": {
+    "api_version": 2,
+    "execution_time": 0.109,
+    "last_updated": "2021-03-14 21:31:14",
+    "timestamp": "2021-03-14 21:31:14"
+  }
+}

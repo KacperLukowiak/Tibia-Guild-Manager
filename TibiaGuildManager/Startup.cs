@@ -31,7 +31,7 @@ namespace TibiaGuildManager
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddMudServices();
-            services.AddSingleton<TibiaAPIService>();
+            services.AddSingleton<ITibiaAPIService, TibiaAPIService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

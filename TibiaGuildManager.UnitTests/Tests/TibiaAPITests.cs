@@ -4,7 +4,7 @@ using Xunit;
 using TibiaGuildManager.Data;
 using TibiaGuildManager.Services;
 
-namespace TibiaGuildManager.UnitTests
+namespace TibiaGuildManager.UnitTests.Tests
 {
     public class TibiaAPITests
     {
